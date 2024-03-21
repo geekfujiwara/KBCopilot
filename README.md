@@ -19,10 +19,13 @@ KBCopilot - ナレッジ回答Copilot は、前提として以下のPower Apps �
 > アップロードはDataverse のメモ (タイムライン)に保存されます。
 >
 > ![image](https://github.com/geekfujiwara/KBCopilot/assets/96101315/2e26d48d-1725-4883-9694-5fd71697ec46)
+> 
+> このようにPCF が提供されている[PCF Gallery](https://pcf.gallery/) から様々の機能をインストールすることが出来ます。
+>
+> 有志での提供のため、その殆どがサポート対象外のためその点はご注意ください。
 
 
-
-手順は以下のとおりです。
+手順は以下のとおりです。各ソリューション間には依存関係があるためこの順番でインストールするようにしてください。
 
 1. [Attachments Grid](https://pcf.gallery/attachments-grid/)
 2. [KB管理アプリ - Power Apps モデル駆動型アプリのリリース](https://github.com/geekfujiwara/KBCopilot/releases/tag/KBApp)
@@ -47,10 +50,7 @@ Attachemnts Grid はGitHub上に[ソリューション](https://github.com/BenLB
 
 ![image](https://github.com/geekfujiwara/KBCopilot/assets/96101315/b2358ae9-1bdb-4e47-b565-47a698d96f4c)
 
-> [!NOTE]
-> このようにPCF が提供されているPCF Gallery から様々の機能をインストールすることが出来ます。
->
-> 有志での提供のため、その殆どがサポート対象外のためその点はご注意ください。
+
 
 ## ソリューションの構成
 
