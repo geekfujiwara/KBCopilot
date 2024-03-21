@@ -4,15 +4,15 @@ Dataverse 内のデータの検索を行い、Copilot Studio の生成型の回�
 
 # ソリューション
 
-KBCopilot - ナレッジ回答Copilot は、前提として以下のナレッジ管理アプリを環境にインストールする必要があります。
+KBCopilot - ナレッジ回答Copilot は、前提として以下のPower Apps で作成されたナレッジ管理アプリをインストールする必要があります。
 
-さらに、ナレッジ回答アプリはAttachments Grids というソリューションを利用しています。
+また、ナレッジ回答アプリはAttachments Grids というPCF (Power Apps Component Framework)を利用しています。そのため、段階的にソリューションをインストールしてください。
 
-以下の順でソリューションをインストールしてください。
+手順は以下のとおりです。
 
 1. [Attachments Grid](https://pcf.gallery/attachments-grid/)
-2. [KB管理アプリ - Power Apps モデル駆動型アプリのリリース]()
-3. [KBCopilot - Copilot Studioで作成したナレッジ回答Copilotのリリース]()
+2. [KB管理アプリ - Power Apps モデル駆動型アプリのリリース](https://github.com/geekfujiwara/KBCopilot/releases/tag/KBApp)
+3. [KBCopilot - Copilot Studioで作成したナレッジ回答Copilotのリリース](https://github.com/geekfujiwara/KBCopilot/releases/tag/KBCopilot)
 
 # 詳細
 
