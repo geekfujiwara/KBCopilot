@@ -3,6 +3,12 @@ Dataverse 内のデータの検索を行い、Copilot Studio の生成型の回�
 
 ![image](https://github.com/geekfujiwara/KBCopilot/assets/96101315/eb8d6e3e-0357-46e6-ae02-60d232bf44b6)
 
+
+
+https://github.com/geekfujiwara/KBCopilot/assets/96101315/789444d1-422e-408b-bc55-94f556618714
+
+
+
 # ソリューション
 
 KBCopilot - ナレッジ回答Copilot は、前提として以下のPower Apps で作成されたナレッジ管理アプリをインストールする必要があります。
