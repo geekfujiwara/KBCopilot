@@ -14,6 +14,11 @@ KBCopilot - ナレッジ回答Copilot は、前提として以下のPower Apps �
 2. [KB管理アプリ - Power Apps モデル駆動型アプリのリリース](https://github.com/geekfujiwara/KBCopilot/releases/tag/KBApp)
 3. [KBCopilot - Copilot Studioで作成したナレッジ回答Copilotのリリース](https://github.com/geekfujiwara/KBCopilot/releases/tag/KBCopilot)
 
+# 前提条件
+
+* Copilot Studio スタンドアローンライセンスが必要です。
+* Power Apps Premium ライセンスが必要です。
+* AI Builder のクレジットが必要です。
 
 ## インストールの補足
 
@@ -27,6 +32,15 @@ Attachemnts Grid はGitHub上に[ソリューション](https://github.com/BenLB
 > このようにPCF が提供されているPCF Gallery から様々の機能をインストールすることが出来ます。
 >
 > 有志での提供のため、その殆どがサポート対象外のためその点はご注意ください。
+
+## ソリューションの構成
+
+ソリューションをインストールし、まずはPower Apps ナレッジ管理 モデル駆動アプリにデータを登録します。
+
+![image](https://github.com/geekfujiwara/KBCopilot/assets/96101315/aa05ca1e-a39c-452d-a218-e0edfa1a7bdb)
+
+データを登録したら、Copilot から質問を投げかけます。
+
 
 
 # 機能
