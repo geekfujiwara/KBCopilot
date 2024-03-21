@@ -1,6 +1,7 @@
 # KBCopilot - ナレッジ回答アプリ
 Dataverse 内のデータの検索を行い、Copilot Studio の生成型の回答で要約返答することができるソリューションです。
 
+![image](https://github.com/geekfujiwara/KBCopilot/assets/96101315/eb8d6e3e-0357-46e6-ae02-60d232bf44b6)
 
 # ソリューション
 
@@ -8,11 +9,29 @@ KBCopilot - ナレッジ回答Copilot は、前提として以下のPower Apps �
 
 また、ナレッジ回答アプリはAttachments Grids というPCF (Power Apps Component Framework)を利用しています。そのため、段階的にソリューションをインストールしてください。
 
+> [!NOTE]
+> 今回利用するPCF は添付ファイルを簡単にアップロードすることができるソリューションです。
+>
+> ドラッグ&ドロップでファイルをアップロードすることが出来ます。
+> 
+> ![image](https://github.com/geekfujiwara/KBCopilot/assets/96101315/b66c079c-1165-4fa4-a9fa-c0408c69113e)
+>
+> アップロードはDataverse のメモ (タイムライン)に保存されます。
+>
+> ![image](https://github.com/geekfujiwara/KBCopilot/assets/96101315/2e26d48d-1725-4883-9694-5fd71697ec46)
+
+
+
 手順は以下のとおりです。
 
 1. [Attachments Grid](https://pcf.gallery/attachments-grid/)
 2. [KB管理アプリ - Power Apps モデル駆動型アプリのリリース](https://github.com/geekfujiwara/KBCopilot/releases/tag/KBApp)
 3. [KBCopilot - Copilot Studioで作成したナレッジ回答Copilotのリリース](https://github.com/geekfujiwara/KBCopilot/releases/tag/KBCopilot)
+
+> [!NOTE]
+> 各ソリューションをインストール後、すべてのカスタマイズを公開するようにしてください。
+>
+> もし、Power Automate クラウドフローがオフになっている場合、オンにするようにしてください。
 
 # 前提条件
 
