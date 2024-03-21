@@ -14,7 +14,22 @@ KBCopilot - ナレッジ回答Copilot は、前提として以下のPower Apps �
 2. [KB管理アプリ - Power Apps モデル駆動型アプリのリリース](https://github.com/geekfujiwara/KBCopilot/releases/tag/KBApp)
 3. [KBCopilot - Copilot Studioで作成したナレッジ回答Copilotのリリース](https://github.com/geekfujiwara/KBCopilot/releases/tag/KBCopilot)
 
-# 詳細
+
+## インストールの補足
+
+Attachemnts Grid はGitHub上に[ソリューション](https://github.com/BenLBartle/PCF-AttachmentsGrid/blob/master/Solution/bin/Debug/Solution.zip)が提供されています。
+
+こちらからZip ファイルをダウンロードしてください。
+
+![image](https://github.com/geekfujiwara/KBCopilot/assets/96101315/b2358ae9-1bdb-4e47-b565-47a698d96f4c)
+
+> [!NOTE]
+> このようにPCF が提供されているPCF Gallery から様々の機能をインストールすることが出来ます。
+>
+> 有志での提供のため、その殆どがサポート対象外のためその点はご注意ください。
+
+
+# 機能
 
 ナレッジベースに書かれていることについて質問をしてみます。
 ※事前にモデル駆動型アプリからなどで、Dataverse にナレッジを登録しておく必要があります。
