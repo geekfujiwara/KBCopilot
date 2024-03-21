@@ -30,24 +30,36 @@ KBCopilot - ナレッジ回答Copilot は、前提として以下のPower Apps �
 >
 > 有志での提供のため、その殆どがサポート対象外のためその点はご注意ください。
 
+# 前提条件
+
+* Copilot Studio スタンドアローンライセンスが必要です。
+* Power Apps Premium ライセンスが必要です。
+* AI Builder のクレジットが必要です。
+
+
 ## インストール手順
 
 手順は以下のとおりです。各ソリューション間には依存関係があるためこの順番でインストールするようにしてください。
 
 1. [Attachments Grid](https://pcf.gallery/attachments-grid/)
-2. [KB管理アプリ - Power Apps モデル駆動型アプリのリリース](https://github.com/geekfujiwara/KBCopilot/releases/tag/KBApp)
+2. [KBApp - Power Apps モデル駆動型アプリのリリース](https://github.com/geekfujiwara/KBCopilot/releases/tag/KBApp)
 3. [KBCopilot - Copilot Studioで作成したナレッジ回答Copilotのリリース](https://github.com/geekfujiwara/KBCopilot/releases/tag/KBCopilot)
+
+KBCopilot をインストールする際には環境変数 KBAppURLが問われます。
+
+KBAppのペースURLを入力するようにしてください。
+
+モデル駆動型アプリを起動してappidまでのURLを入手しておきます。
+
+![image](https://github.com/geekfujiwara/KBCopilot/assets/96101315/4da373b8-e2ac-488b-b2d7-e673c6553f1f)
+
 
 > [!NOTE]
 > 各ソリューションをインストール後、すべてのカスタマイズを公開するようにしてください。
 >
 > もし、Power Automate クラウドフローがオフになっている場合、オンにするようにしてください。
 
-# 前提条件
 
-* Copilot Studio スタンドアローンライセンスが必要です。
-* Power Apps Premium ライセンスが必要です。
-* AI Builder のクレジットが必要です。
 
 ## インストールの補足
 
