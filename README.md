@@ -42,8 +42,9 @@ KBCopilot - ナレッジ回答Copilot は、前提として以下のPower Apps �
 手順は以下のとおりです。各ソリューション間には依存関係があるためこの順番でインストールするようにしてください。
 
 1. [Attachments Grid](https://pcf.gallery/attachments-grid/)
-2. [KBApp - Power Apps モデル駆動型アプリのリリース](https://github.com/geekfujiwara/KBCopilot/releases/tag/KBApp)
-3. [KBCopilot - Copilot Studioで作成したナレッジ回答Copilotのリリース](https://github.com/geekfujiwara/KBCopilot/releases/tag/KBCopilot)
+2. [環境のDataverse検索を有効にする](https://learn.microsoft.com/ja-jp/power-platform/admin/configure-relevance-search-organization)
+3. [KBApp - Power Apps モデル駆動型アプリのリリース](https://github.com/geekfujiwara/KBCopilot/releases/tag/KBApp)
+4. [KBCopilot - Copilot Studioで作成したナレッジ回答Copilotのリリース](https://github.com/geekfujiwara/KBCopilot/releases/tag/KBCopilot)
 
 KBCopilot をインストールする際には環境変数 KBAppURLが問われます。
 
